@@ -1,7 +1,7 @@
 # Yape Code Challenge :rocket:
 
 - [Problem](#problem)
-- [Tech Stack](#tech_stack)
+- [Tech Stack](##tech_stack)
 - [API Resources](#api_resources)
 - [High Volume Scenario Considerations Implemented](#considerations)
 - [How to Run the Project](#how_to_run_the_project)
@@ -76,6 +76,7 @@ Response:
 ```
 
 2. Retrieve a transaction
+   
    Request:
 
 ```gql
