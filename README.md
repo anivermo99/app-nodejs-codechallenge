@@ -35,7 +35,6 @@ Every transaction with a value greater than 1000 should be rejected.
 - PostgreSQL
 - Redis
 - GraphQL
-- Any database
 - Kafka for messaging
 
 ## API Resources
